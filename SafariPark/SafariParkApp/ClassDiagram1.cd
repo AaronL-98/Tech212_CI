@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SafariParkApp.Person">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAIAEAEAAAAABAAAAAAhAAAAAAAAAIAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SafariParkApp.Vehicle">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAEEAAAAAQBAAAAAABAAAAAAAAAIAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SafariParkApp.Hunter">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAABAAEAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hunter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SafariParkApp.Shapes">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Shapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SafariParkApp.Airplane">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIAAAAAEAAAAggAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Airplane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SafariParkApp.Weapon">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAFAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SafariParkApp.LaserGun">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LaserGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SafariParkApp.WaterPistol">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaterPistol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SafariParkApp.Camera">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="SafariParkApp.Point3D">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Point3D.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="SafariParkApp.IMovable">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SafariParkApp.IShootable">
+    <Position X="15.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IShootable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
